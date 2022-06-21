@@ -1,0 +1,6 @@
+Idman programi....
+Burpee sayisi: 35 
+Pushup sayisi: 40 
+SitUp sayisi: 45 
+Squat sayisi: 50 
+1. Islem------> Hareket: Burpee Sayi: 30
